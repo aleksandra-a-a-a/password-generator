@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    background: #111827;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+.main {
+    text-align: left;
+    width: 400px;
+    margin: 20px;
+    border: solid #A7F3D0;
+    padding: 30px;
+    border-radius: 20px
+}
+
+h1 {
+    font-size: 45px;
+    color: whitesmoke;
+    margin-bottom: 0;
+    
+    
+}
+#stand-out {
+    color: #10B981;
+}
+
+p {
+    color: whitesmoke;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-style: italic;
+}
+button {
+    height: 50px;
+    width: 200px;
+    margin-top: 25px;
+    color: whitesmoke ;
+    background: #10B981;
+    border: none;
+    font-size: 18px;
+    border-radius: 10px;
+}
+.result {
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    border-top: solid #10B981 0.5px;
+    margin-top: 40px;
+    
+}
+.generatedPass {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background: #273549;
+    width: 180px;
+    height: 30px;
+    border-radius: 10px;
+    color: #10B981;
+    text-align: center;
+    padding-top: 15px;
+    
+}
